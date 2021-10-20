@@ -8,7 +8,7 @@
 
 ## I'm a Full Stack Web Developer!!
 
-- 🔭 I’m currently working as Volunteer web devloper with Fight Pandemics
+- 🔭 I’m currently working as Volunteer web devloper with Sopcal
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
