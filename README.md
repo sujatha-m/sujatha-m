@@ -11,7 +11,7 @@
 - 🔭 I’m currently working as Volunteer web devloper with Sopcal
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 
 ### Languages and Tools:
